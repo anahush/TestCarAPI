@@ -1,6 +1,4 @@
-﻿using TestCarAPI.Models.AutoData;
-
-namespace TestCarAPI.Models.Car.Interfaces
+﻿namespace TestCarAPI.Models.Car.Interfaces
 {
     public interface ICar
     {

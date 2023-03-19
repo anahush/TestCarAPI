@@ -1,9 +1,7 @@
 ﻿using Dapper;
-using System.Security.Cryptography;
+
 using TestCarAPI.Context;
-using TestCarAPI.Models.AutoData;
 using TestCarAPI.Models.Car.DTO;
-using TestCarAPI.Models.Helper;
 using TestCarAPI.Repositories.Interfaces;
 
 namespace TestCarAPI.Repositories

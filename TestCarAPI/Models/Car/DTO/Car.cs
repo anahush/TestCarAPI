@@ -1,5 +1,4 @@
 ﻿using TestCarAPI.Models.Car.Interfaces;
-using TestCarAPI.Models.AutoData;
 
 namespace TestCarAPI.Models.Car.DTO
 {

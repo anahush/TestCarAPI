@@ -1,5 +1,4 @@
 ﻿using TestCarAPI.Models.User;
-using TestCarAPI.Models.UserData;
 
 namespace TestCarAPI.Repositories.Interfaces
 {
